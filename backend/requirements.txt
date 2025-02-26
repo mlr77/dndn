@@ -1,0 +1,47 @@
+# FastAPI and web server
+fastapi
+uvicorn
+websockets
+python-multipart
+
+# Environment variables
+python-dotenv
+
+# Jupyter integration
+jupyter-client
+jupyter-core
+notebook
+nbformat
+ipykernel
+
+# Redis
+redis
+aioredis
+
+# Data handling
+pydantic
+pydantic-settings
+
+# CORS
+starlette
+
+# Async support
+httpx
+anyio
+
+# Data handling
+pandas
+numpy
+
+# For working with Jupyter widgets
+ipywidgets
+widgetsnbextension
+
+# Optional: Plotting libraries (often used in notebooks)
+matplotlib
+seaborn
+
+# Development tools
+pytest
+black
+isort
